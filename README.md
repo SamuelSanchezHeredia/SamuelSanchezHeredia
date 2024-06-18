@@ -2,12 +2,12 @@
   ## 👨🏼‍💻 &nbsp;About Me
 
   - 🌐 Web Application Development Student in Granada.
-
-  - 🔍 Interesado en aprender sobre nuevas tecnologías.
-
-  - 🎨 Apasionado por el diseño gráfico y la creatividad.
-
-  - 🤝 Soy comunicativo, proactivo, un gran colaborador y siempre doy lo mejor de mí mismo.
+  
+  - 🔍 Interested in learning about new technologies.
+  
+  - 🎨 Passionate about graphic design and creativity.
+  
+  - 🤝 I am communicative, proactive, a great collaborator, and always give my best.
 
   <br>
   
