@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://arielguerrero.es/GitBanBlu.png" alt="Card header"/>
-</div>
 
   ## 👨🏼‍💻 &nbsp;About Me
 
