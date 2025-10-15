@@ -20,7 +20,7 @@
 
   ## 🎓 &nbsp;Currently studying
 
-  - Phyton
+  - Python
   - Big Data
   - React
   - Matlab
