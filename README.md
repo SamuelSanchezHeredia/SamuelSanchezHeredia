@@ -60,10 +60,12 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/SamuelSanchezHeredia">
-    <img width=450 height=170 align="center" alt="Samuel Sanchez Heredia" src="https://github-readme-stats.vercel.app/api?username=SamuelSanchezHeredia&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width="450" height="170" align="center" alt="Samuel Sanchez Heredia"
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelSanchezHeredia&theme=algolia&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/SamuelSanchezHeredia">
-    <img align="center" alt="Samuel Sanchez Heredia" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSanchezHeredia&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="Samuel Sanchez Heredia"
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamuelSanchezHeredia&theme=algolia&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 <br>
   <br>
