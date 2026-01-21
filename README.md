@@ -1,62 +1,101 @@
+<h1 align="left">Hi there! I'm Samuel Sanchez Heredia 👨🏼‍💻</h1>
 
-  ## 👨🏼‍💻 &nbsp;About Me
-  
-  - 🤖 Learning about AI and Big Data.
+###
 
-  - 🌐 Web Application Developer.
-  
-  - 🔍 Interested in learning about new technologies.
-  
-  - 🎨 Passionate about graphic design and creativity.
-  
-  - 🤝 I am communicative, proactive, a great collaborator, and always give my best.
+<p align="left">I'm a Web Developer and an AI & Big Data student based in the beautiful city of Granada, Spain. 🇪🇸<br><br>
+I design and build responsive, accessible web applications using modern frontend and backend technologies, with a strong focus on clean, maintainable code and performant user experiences. As an AI & Big Data student, I work on data pipelines, exploratory data analysis, model prototyping and training, and data visualization to turn raw data into actionable insights. I enjoy integrating intelligent features into real products — from prototyping interfaces and APIs to deploying models and data-driven dashboards in production. I'm enthusiastic about testing, automation and continuous learning, and I thrive working in multidisciplinary teams that solve real-world problems.</p>
 
-  <br>
-  
+###
 
-</div>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🤖 Learning about AI and Big Data.<br><br>🌐 Web Application Developer.<br><br>🔍 Interested in learning about new technologies.<br><br>🎨 Passionate about graphic design and creativity.<br><br>🤝 I am communicative, proactive, a great collaborator, and always give my best.</p>
+
+###
+
+<h2 align="left">🛠️ Tools and Technology</h2>
+
+###
+
+<h4 align="left">🧠 Programming Languages</h4>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+</p>
+
+
+<h4 align="left">🌐 Frontend Development</h4>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+</p>
+
+
+<h4 align="left">⚙️ Backend Development</h4>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+</p>
+
+
+<h4 align="left">🎨 Design & Creativity</h4>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
+</p>
+
+
+<h4 align="left">🧰 Development Tools (IDEs & Editors)</h4>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/>
+</p>
+
+
+<h4 align="left">🛠️ Other Tools</h4>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
 
 <div>
 
-  ## 🎓 &nbsp;Currently studying
+## 💻 What You’ll Find Here
 
-  - Python
-  - Big Data
-  - React
-  - Matlab
-  - n8n
+On my GitHub, you’ll find:
 
-<br>
+🔹 **Web Development Projects**  
+Modern and responsive web applications built with **JavaScript, TypeScript, React, Next.js, and Laravel**.
 
-</div>
+🔹 **AI & Big Data Learning Projects**  
+Hands-on projects focused on **data analysis, machine learning fundamentals, and intelligent solutions** using **Python and R**.
 
-<div>
+🔹 **End-to-End Applications**  
+Projects covering the full development cycle: **frontend, backend, databases, and deployment**.
 
-  ## 🛠️ &nbsp;Tools and Technology
+🔹 **Clean Code & Best Practices**  
+Well-structured, readable, and maintainable code with a focus on **learning, improvement, and real-world use cases**.
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/wordpress%20-%2327799E.svg?&style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/PHOTOSHOP%20-%2314354C.svg?&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/illustrator%20-%23F77B17.svg?&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-   
-<br>
-<br>
-</div>
-
-
-
-<div>
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/SamuelSanchezHeredia">
