@@ -2,8 +2,13 @@
 
 ###
 
-<p align="left">I'm a Web Developer and an AI & Big Data student based in the beautiful city of Granada, Spain. 🇪🇸<br><br>
-I design and build responsive, accessible web applications using modern frontend and backend technologies, with a strong focus on clean, maintainable code and performant user experiences. As an AI & Big Data student, I work on data pipelines, exploratory data analysis, model prototyping and training, and data visualization to turn raw data into actionable insights. I enjoy integrating intelligent features into real products — from prototyping interfaces and APIs to deploying models and data-driven dashboards in production. I'm enthusiastic about testing, automation and continuous learning, and I thrive working in multidisciplinary teams that solve real-world problems.</p>
+<h3 align="left">Web Developer | AI & Big Data Student</h3>
+
+<p align="left">I'm a Web Developer (DAW) and an AI & Big Data student based in the beautiful city of Granada, Spain 🇪🇸<br>
+  
+I design and build responsive, accessible web applications using modern frontend and backend technologies, with a strong focus on clean, maintainable code and performant user experiences. As an AI & Big Data student, I work on data pipelines, exploratory data analysis, model prototyping and training, and data visualization to turn raw data into actionable insights.<br>
+
+I enjoy integrating intelligent features into real products — from prototyping interfaces and APIs to deploying models and data-driven dashboards in production. I'm enthusiastic about testing, automation and continuous learning, and I thrive working in multidisciplinary teams that solve real-world problems.</p>
 
 ###
 
@@ -11,7 +16,7 @@ I design and build responsive, accessible web applications using modern frontend
 
 ###
 
-<p align="left">🤖 Learning about AI and Big Data.<br><br>🌐 Web Application Developer.<br><br>🔍 Interested in learning about new technologies.<br><br>🎨 Passionate about graphic design and creativity.<br><br>🤝 I am communicative, proactive, a great collaborator, and always give my best.</p>
+<p align="left">🤖 Learning about AI and Big Data.<br>🌐 Web Application Developer.<br>🔍 Interested in learning about new technologies.<br>🎨 Passionate about graphic design and creativity.<br>🤝 I am communicative, proactive, a great collaborator, and always give my best.</p>
 
 ###
 
@@ -21,13 +26,15 @@ I design and build responsive, accessible web applications using modern frontend
 
 <h4 align="left">🧠 Programming Languages</h4><img src="https://skillicons.dev/icons?i=java,js,typescript,php,py,r" />
 
+<h4 align="left">🤖 IA & Machine Learning</h4><img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+
+<h4 align="left">🗃️ Database (DB)</h4><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
 <h4 align="left">🌐 Frontend Development</h4><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 
 <h4 align="left">⚙️ Backend Development</h4><img src="https://skillicons.dev/icons?i=laravel,nodejs" />
 
 <h4 align="left">🎨 Design & Creativity</h4><img src="https://skillicons.dev/icons?i=photoshop,illustrator,canva" />
-
-<h4 align="left">🧰 Development Tools (IDEs & Editors)</h4><img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm" />
 
 <h4 align="left">🛠️ Other Tools</h4><img src="https://skillicons.dev/icons?i=npm,matlab,docker,wordpress,github" />
 
