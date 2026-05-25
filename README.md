@@ -2,13 +2,11 @@
 
 ###
 
-<h3 align="left">Web Developer | AI & Big Data Student</h3>
+<h3 align="left">Fullstack & IA Developer</h3>
 
-<p align="left">I'm a Web Developer (DAW) and an AI & Big Data student based in the beautiful city of Granada, Spain 🇪🇸<br>
-  
-I design and build responsive, accessible web applications using modern frontend and backend technologies, with a strong focus on clean, maintainable code and performant user experiences. As an AI & Big Data student, I work on data pipelines, exploratory data analysis, model prototyping and training, and data visualization to turn raw data into actionable insights.<br>
+<p align="left">I'm a Fullstack & AI Developer based in Granada, Spain. I specialize in the design, development, and deployment of intelligent solutions and data-oriented backend architectures.<br>
 
-I enjoy integrating intelligent features into real products — from prototyping interfaces and APIs to deploying models and data-driven dashboards in production. I'm enthusiastic about testing, automation and continuous learning, and I thrive working in multidisciplinary teams that solve real-world problems.</p>
+My expertise focuses on the integration of Large Language Models (LLMs), predictive models, and conversational agents for workflow automation. I have a strong command over optimizing relational and non-relational data, working with interactive frontend environments like React, and building robust backends with Python and Laravel under agile methodologies. I thrive in multidisciplinary teams solving real-world challenges through continuous learning and automation.</p>
 
 ###
 
@@ -16,7 +14,13 @@ I enjoy integrating intelligent features into real products — from prototyping
 
 ###
 
-<p align="left">🤖 Learning about AI and Big Data.<br>🌐 Web Application Developer.<br>🔍 Interested in learning about new technologies.<br>🎨 Passionate about graphic design and creativity.<br>🤝 I am communicative, proactive, a great collaborator, and always give my best.</p>
+<p align="left">
+🤖 **AI & Big Data Developer**: Officially specialized in Artificial Intelligence and Big Data.<br>
+🌐 **Fullstack Web Developer**: Graduated in Web Application Development (DAW).<br>
+📊 **Automation & Intelligent Workflows**: Experienced in building virtual assistants using n8n and vector databases like Pinecone.<br>
+🌍 **Global Mindset**: Experienced in international collaborative projects (Erasmus+).<br>
+🤝 **Proactive & Resilient**: Highly adaptive with strong problem-solving and stress-tolerance skills.
+</p>
 
 ###
 
@@ -24,19 +28,15 @@ I enjoy integrating intelligent features into real products — from prototyping
 
 ###
 
-<h4 align="left">🧠 Programming Languages</h4><img src="https://skillicons.dev/icons?i=java,js,typescript,php,py,r" />
+<h4 align="left">🧠 Programming Languages</h4><img src="https://skillicons.dev/icons?i=py,js,java,php,r,matlab" />
 
 <h4 align="left">🤖 IA & Machine Learning</h4><img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
 
-<h4 align="left">🗃️ Database (DB)</h4><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<h4 align="left">🗃️ Database & Vector Management</h4><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 
-<h4 align="left">🌐 Frontend Development</h4><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+<h4 align="left">🌐 Frontend & Backend Development</h4><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,laravel,wordpress" />
 
-<h4 align="left">⚙️ Backend Development</h4><img src="https://skillicons.dev/icons?i=laravel,nodejs" />
-
-<h4 align="left">🎨 Design & Creativity</h4><img src="https://skillicons.dev/icons?i=photoshop,illustrator,canva" />
-
-<h4 align="left">🛠️ Other Tools</h4><img src="https://skillicons.dev/icons?i=npm,matlab,docker,wordpress,github" />
+<h4 align="left">⚙️ Automation & Cloud (DevOps)</h4><img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,github" />
 
 <div>
 
@@ -44,18 +44,15 @@ I enjoy integrating intelligent features into real products — from prototyping
 
 On my GitHub, you’ll find:
 
-🔹 **Web Development Projects**  
-Modern and responsive web applications built with **JavaScript, TypeScript, React, Next.js, and Laravel**.
+🔹 **Conversational AI & Automation**
+* **Chassis Diagnosis Assistant**: An intelligent virtual assistant specialized in mechanical fault diagnosis using LangGraph, Groq, and Supabase. It implements semantic search through embeddings and conversational flows to automate decision trees.
 
-🔹 **AI & Big Data Learning Projects**  
-Hands-on projects focused on **data analysis, machine learning fundamentals, and intelligent solutions** using **Python and R**.
+🔹 **Computer Vision & Deep Learning**
+* **Package Inspection System**: Design and training of a Convolutional Neural Network (CNN) for automated package classification using image processing. Includes a local pipeline deployed with an interactive Streamlit interface.
 
-🔹 **End-to-End Applications**  
-Projects covering the full development cycle: **frontend, backend, databases, and deployment**.
-
-🔹 **Clean Code & Best Practices**  
-Well-structured, readable, and maintainable code with a focus on **learning, improvement, and real-world use cases**.
-
+🔹 **Fullstack Web Projects**
+* **Responsive Web Applications**: Scalable and robust platforms developed using Laravel, React, MySQL, and PostgreSQL under agile methodologies.
+* **Clean Code & Architectures**: Well-structured code focusing on optimization, data performance, and technical best practices.
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/SamuelSanchezHeredia">
